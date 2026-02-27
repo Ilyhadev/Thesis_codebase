@@ -1,0 +1,3 @@
+[submodule "F103_Jitter_PoC"]
+	path = F103_Jitter_PoC
+	url = git@github.com:Ilyhadev/STM32F103x_FreeRTOS_Timings.git
